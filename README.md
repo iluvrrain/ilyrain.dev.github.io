@@ -1,11 +1,11 @@
 # Welcome to my profile :))⭐
-I'm Stellar and I really like programming <3. 
+I'm Nix and I really like programming <3. 
 
 ## What can i do?🖥️
 **Programming Languages**: python, visual basic
 
 ## Main Projects🎶
-[ilystellar.devv](https://ilystellar.devv)
+[ilynix.devv](https://ilynix.devv)
 
 # Support me🧇
 Pls, give me a star if you think that my work is good, thankies <3
